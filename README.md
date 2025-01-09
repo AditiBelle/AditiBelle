@@ -1,9 +1,9 @@
 ## About Me:
 
 
-Hello! I am Aditi. I major in Neuroscience & Behavior and minor in computer science and chemistry. 
+Hello! I am Aditi. I major in Neuroscience & Behavior and minor in computer science and chemistry and I am on the pre-med track!
 
-I am interested in moving towards a path in computational neuroscience as well as integrating CS and public health!
+I am interested in computational neuroscience as well as integrating CS and public health! 
 
 Linkedin: www.linkedin.com/in/aditi-belle-290792266
 
