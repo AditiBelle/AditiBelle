@@ -2,8 +2,7 @@
 
 
 Hello! I am Aditi. I am a senior majoring in Neuroscience & Behavior and minor in Computer Science and Chemistry and I am on the pre-med track!
-
-Incoming MPH studuent with a focus in Epidemiology and Biostatistcs. 
+I am also an incoming MPH student with a focus in Epidemiology and Biostatistcs. 
 
 I am interested in Computational Neuroscience as well as using CS and Biostatistics for Public Health purposes and research! 
 
